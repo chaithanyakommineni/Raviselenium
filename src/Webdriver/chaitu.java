@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 public class chaitu {
 	
 	WebDriver driver;
-		
+	//before class we will execute test	
 	 @BeforeClass
 		public void main() {
 			driver=new FirefoxDriver();
