@@ -13,7 +13,7 @@ import org.testng.annotations.BeforeTest;
 
 public class Mobile1 {
 	
-//@BeforeTest
+//@BeforeTest(we will execute first in any test method)
 public static void main(String[] args) throws IOException
 {
 	
